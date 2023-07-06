@@ -1,6 +1,6 @@
 {
-  "name": "ng-input-number-i18n-app",
-  "version": "0.0.0",
+  "name": "new-ng-input-number-i18n-app",
+  "version": "0.0.1",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
