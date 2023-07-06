@@ -156,6 +156,6 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-input-number-i18n-app"
+    }
+  }
 }
